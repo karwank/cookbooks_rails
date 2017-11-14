@@ -18,3 +18,6 @@ issues_url 'https://github.com/karwank/cookbooks_rails/issues'
 # a Supermarket.
 #
 source_url 'https://github.com/karwank/cookbooks_rails'
+
+depends 'opsworks_ruby', '1.8.0'
+depends 'packages', '~> 1.0.0'
