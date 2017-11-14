@@ -1,6 +1,6 @@
 name 'cookbooks_rails'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Karol Karwacki'
+maintainer_email 'karol@nabthat.com'
 license 'All Rights Reserved'
 description 'Installs/Configures cookbooks_rails'
 long_description 'Installs/Configures cookbooks_rails'
@@ -11,10 +11,10 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/cookbooks_rails/issues'
+issues_url 'https://github.com/karwank/cookbooks_rails/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/cookbooks_rails'
+source_url 'https://github.com/karwank/cookbooks_rails'
